@@ -3,7 +3,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(img.width, img.height);
+  createCanvas(877, 620);
   noStroke();
 
   textFont('Courier New');
